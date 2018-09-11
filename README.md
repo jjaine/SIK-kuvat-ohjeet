@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Ohjeet SIKin valokuvaajille kuvien editointiin
 
-You can use the [editor on GitHub](https://github.com/jjaine/SIK-kuvat-ohjeet/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+1) miten valita helposti suuresta määrästä kuvia onnistuneet ja laittaa eteenpäin käsittelyyn
+2) miten käsitellä kuvat näyttämään hyviltä yleisesti
+3) miten tehdä käsittely yksittäiselle kuvalle tehokkaasti
+4) miten käsitellä suuri määrä erilaisia kuvia tehokkaasti
+5) miten eksportata suuri määrä kuvia killan galleriaan sopivaan kokoon
+6) miten nimetään helposti uudelleen suuri määrä tiedostoja
+7) miten kuvat ladataan killan palvelimel
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Lightroom
 
-### Markdown
+ASDFASDdfghkdjfgöhlkdjfghökdfh
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Kuvien valitseminen
 
-```markdown
-Syntax highlighted code block
+ADFGDSFGsdfklgjdsökghjödflkjghdlkgfh
 
-# Header 1
-## Header 2
-### Header 3
+## Kuvien editointi
 
-- Bulleted
-- List
+### Yleistä
 
-1. Numbered
-2. List
+### Miten hallita useita kuvia samanaikaisesti
 
-**Bold** and _Italic_ and `Code` text
+## Kuvien exporttaus
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jjaine/SIK-kuvat-ohjeet/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Kuvien lisääminen
