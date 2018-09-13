@@ -14,7 +14,7 @@ Itse käytän, ja suosittelen myös muille, Adoben Lightroom -sovellusta suurien
 
 Seuraavat ohjeet on tehty Lightroomille.
 
-## Kuvien valitseminen
+## Kuvien tuominen koneelle
 
 Kuvat tuodaan Lightroomiin kamerasta (tai kovalevyltä) valitsemalla valikosta `File > Import Photos and Video`.
 
@@ -27,6 +27,12 @@ Ensimmäinen valinta on ikkunan keskellä oleva valinta `Copy as DNG / Copy / Mo
 Oikeassa yläkulmassa on määritelty kuvien tallennuspaikka (esim. oma `My Pictures` kansiosi). Suosin itse tämän käyttöä, sillä  Lightroom osaa lajitella kuvat vuosiluvuittain kansioihin ja edelleen päivämäärän mukaan alikansioihin. Oikeasta reunasta löytyvästä `Destination`-valikosta voit tarkastella tarkemmin kuvien jakautumista kansioihin. Samassa valikossa voit myös valita päivämäärän formaatin.
 
 Oikeasta reunasta löytyvästä valikosta `File Handling` voit valita ainakin, ettei jo aiemmin importattuja kuvia tuoda uudestaan (`Don't Import Suspected Duplicates`) ja myös kopioida kuvat esim. kahteen paikkaan backupeja varten (`Make a Second Copy To:`).
+
+## Kuvien valitseminen
+
+Kun kuvat on tuotu koneelle, löytyvät ne vasemmalta `Catalog`-valikosta, kohdasta `Previous Import`. Vaihtoehtoisesti voit etsiä oikean kansion vasemmalta `Folders`-valikosta. 
+
+Kuvien käyminen läpi kannattaa tehdä `Develop`-näkymässä `Library`-näkymän sijaan. Develop-näkymässä voit nopeasti vertailla peräkkäisiä kuvia ja säätää niitä tarvittaessa jo läpikäyntivaiheessa, jotta voit arvioida helposti, mitkä kuvat pääsevät "jatkoon".
 
 ## Kuvien editointi
 
