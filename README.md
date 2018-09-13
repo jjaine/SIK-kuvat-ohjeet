@@ -1,12 +1,14 @@
 # Ohjeet SIKin valokuvaajille kuvien editointiin
 
-1) miten valita helposti suuresta määrästä kuvia onnistuneet ja laittaa eteenpäin käsittelyyn
-2) miten käsitellä kuvat näyttämään hyviltä yleisesti
-3) miten tehdä käsittely yksittäiselle kuvalle tehokkaasti
-4) miten käsitellä suuri määrä erilaisia kuvia tehokkaasti
-5) miten eksportata suuri määrä kuvia killan galleriaan sopivaan kokoon
-6) miten nimetään helposti uudelleen suuri määrä tiedostoja
-7) miten kuvat ladataan killan palvelimel
+Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin:
+
+1. Miten valita helposti suuresta määrästä kuvia onnistuneet ja laittaa eteenpäin käsittelyyn?
+2. Miten käsitellä kuvat näyttämään hyviltä yleisesti?
+3. Miten tehdä käsittely yksittäiselle kuvalle tehokkaasti?
+4. Miten käsitellä suuri määrä erilaisia kuvia tehokkaasti?
+5. Miten exportata suuri määrä kuvia killan galleriaan sopivaan kokoon?
+6. Miten nimetään helposti uudelleen suuri määrä tiedostoja?
+7. Miten kuvat ladataan killan galleriaan?
 
 ## Lightroom
 
