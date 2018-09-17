@@ -22,15 +22,19 @@ Kuvat tuodaan Lightroomiin kamerasta (tai kovalevyltä) valitsemalla valikosta `
 
 ![Import gif](import.gif)
 
+Alla olevassa kuvassa (kohta numero 1) valitaan, mistä kuvia tuodaan (yleensä esim. kamera).
+
 ### Ensimmäisen kerran asetukset 
 
 Ennen ensimmäistä kuvien tuontia Lightroomiin kannattaa asetukset importille laittaa kuntoon.
 
-Ensimmäinen valinta on ikkunan keskellä oleva valinta `Copy as DNG / Copy / Move / Add`. Näistä suosin itse valintaa `Copy`, jolloin kuvat kopioidaan kamerasta kovalevylle. Valinnoista `All Photos / New Photos / Destination Folders` olen pitänyt valintana aina `All Photos`, jotta epähuomiossa jokin kuva ei jäisi tuomatta koneelle muistikortilta. Lisää tästä myös alla.
+Ensimmäinen valinta on ikkunan keskellä oleva valinta `Copy as DNG / Copy / Move / Add` (numero 2). Näistä suosin itse valintaa `Copy`, jolloin kuvat kopioidaan kamerasta kovalevylle. Valinnoista `All Photos / New Photos / Destination Folders` (numero 3) olen pitänyt valintana aina `All Photos`, jotta epähuomiossa jokin kuva ei jäisi tuomatta koneelle muistikortilta. Lisää tästä myös alla.
 
-Oikeassa yläkulmassa on määritelty kuvien tallennuspaikka (esim. oma `My Pictures` kansiosi). Suosin itse tämän käyttöä, sillä  Lightroom osaa lajitella kuvat vuosiluvuittain kansioihin ja edelleen päivämäärän mukaan alikansioihin. Oikeasta reunasta löytyvästä `Destination`-valikosta voit tarkastella tarkemmin kuvien jakautumista kansioihin. Samassa valikossa voit myös valita päivämäärän formaatin.
+Oikeassa yläkulmassa on määritelty kuvien tallennuspaikka (numero 4, esim. oma `My Pictures` kansiosi). Suosin itse tämän käyttöä, sillä  Lightroom osaa lajitella kuvat vuosiluvuittain kansioihin ja edelleen päivämäärän mukaan alikansioihin. Oikeasta reunasta löytyvästä `Destination`-valikosta (numero 5) voit tarkastella tarkemmin kuvien jakautumista kansioihin. Samassa valikossa voit myös valita päivämäärän formaatin.
 
-Oikeasta reunasta löytyvästä valikosta `File Handling` voit valita ainakin, ettei jo aiemmin importattuja kuvia tuoda uudestaan (`Don't Import Suspected Duplicates`) ja myös kopioida kuvat esim. kahteen paikkaan backupeja varten (`Make a Second Copy To:`).
+Oikeasta reunasta löytyvästä valikosta `File Handling` (numero 6) voit valita ainakin, ettei jo aiemmin importattuja kuvia tuoda uudestaan (`Don't Import Suspected Duplicates`) ja myös kopioida kuvat esim. kahteen paikkaan backupeja varten (`Make a Second Copy To:`).
+
+![Import settings png](import-settings.PNG)
 
 ## Kuvien valitseminen
 
