@@ -38,9 +38,19 @@ Oikeasta reunasta löytyvästä valikosta `File Handling` (numero 6) voit valita
 
 ## Kuvien valitseminen
 
-Kun kuvat on tuotu koneelle, löytyvät ne vasemmalta `Catalog`-valikosta, kohdasta `Previous Import`. Vaihtoehtoisesti voit etsiä oikean kansion vasemmalta `Folders`-valikosta. 
+Kun kuvat on tuotu koneelle, löytyvät ne vasemmalta `Catalog`-valikosta, kohdasta `Previous Import`. Vaihtoehtoisesti voit etsiä oikean kansion vasemmalta `Folders`-valikosta (alla oleva kuva, kohta numero 1).
 
-Kuvien käyminen läpi kannattaa tehdä `Develop`-näkymässä `Library`-näkymän sijaan. Develop-näkymässä voit nopeasti vertailla peräkkäisiä kuvia ja säätää niitä tarvittaessa jo läpikäyntivaiheessa, jotta voit arvioida helposti, mitkä kuvat pääsevät "jatkoon".
+Kuvien käyminen läpi kannattaa tehdä `Develop`-näkymässä `Library`-näkymän sijaan (kohta numero 2). Develop-näkymässä voit nopeasti vertailla peräkkäisiä kuvia ja säätää niitä tarvittaessa jo läpikäyntivaiheessa, jotta voit arvioida helposti, mitkä kuvat pääsevät "jatkoon".
+
+![Lightroom base png](lightroom-base.PNG)
+
+Develop-näkymässä näät yhden kuvan kerrallaan, ja voit siirtyä kuvien välillä nuolinäppäimillä. Painamalla B:tä valitset kuvan Quick Collectioniin, joka on helppo tapa valita tuoduista kuvista editoitavat kuvat.
+
+![Selecting gif](select.gif)
+
+Kun kuvat on valittu, siirrytään `Library`-näkymässä kohdasta `Previous Import` kohtaan `Quick Collection`, josta löytyvät nyt editointiin valitut kuvat.
+
+![Quick collection png](quick-collection.PNG)
 
 ## Kuvien editointi
 
