@@ -10,6 +10,14 @@ Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin
 6. Miten nimetään helposti uudelleen suuri määrä tiedostoja?
 7. Miten kuvat ladataan killan galleriaan?
 
+# Sisältö
+
+- [Lightroomista](#lightroom)
+- [Kuvien tuominen koneelle](#kuvien-tuominen-koneelle)
+    - [Ensimmäisen kerran asetukset](#ensimmäisen-kerran-asetukset)
+- [Kuvien valitseminen](#kuvien-valitseminen)
+- [Kuvien editointi](#kuvien-editointi)
+
 ## Lightroom
 
 Itse käytän, ja suosittelen myös muille, Adoben Lightroom -sovellusta suurien kuvamäärien käsittelyyn. Sovelluksen saa itselleen opiskelijana Adobelta Photoshopin kanssa pakettina 12,39€/kk hintaan (tarkistettu 12.9.2018) ja Lightroom on myös asennettuna killan toimistolla, jos ei halua hankkia itselleen kyseistä ohjelmistoa.
