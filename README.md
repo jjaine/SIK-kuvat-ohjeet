@@ -20,6 +20,8 @@ Seuraavat ohjeet on tehty Lightroomille.
 
 Kuvat tuodaan Lightroomiin kamerasta (tai kovalevyltä) valitsemalla valikosta `File > Import Photos and Video`.
 
+![Import gif](import.gif)
+
 ### Ensimmäisen kerran asetukset 
 
 Ennen ensimmäistä kuvien tuontia Lightroomiin kannattaa asetukset importille laittaa kuntoon.
