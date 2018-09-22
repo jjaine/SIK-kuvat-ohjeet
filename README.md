@@ -64,7 +64,11 @@ Kun kuvat on valittu, siirrytään `Library`-näkymässä kohdasta `Previous Imp
 
 ### Yleistä
 
-### Miten hallita useita kuvia samanaikaisesti
+Valittujen kuvien editointi on helppoa `Develop`-näkymässä. Kuvat on helppo käydä läpi yksi kerrallaan ja käyttää hyväksi samasta tilanteesta otettujen kuvien kanssa samoja asetuksia. Samalla on mahdollista hienosäätää jokaisen kuvan asetuksia yksittäin, jolloin jokaisesta kuvasta laadukkaan ja mietityn näköinen.
+
+### Editointi
+
+
 
 ## Kuvien exporttaus
 
