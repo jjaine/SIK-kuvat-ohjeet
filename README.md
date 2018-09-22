@@ -68,7 +68,19 @@ Valittujen kuvien editointi on helppoa `Develop`-näkymässä. Kuvat on helppo k
 
 ### Editointi
 
+Kuvien editointi kannattaa aloittaa ensimmäisestä kuvasta, säätäen ensin kohdalleen valkotasapaino automaattivalitsimella (alla oleva kuva, kohta numero 2). Myös manuaalinen säätö tai kuvan jättäminen kuvattuun valkotasapainoon voivat olla tilanteesta riippuen hyvä idea. 
 
+Tämän jälkeen säädetään kuvan valot ja varjot sekä värit kuntoon liukuvalitsimilla (kohta 1).
+
+Kuvien rajaus ja kääntö onnistuu samasta valikosta löytyvällä valitsimella (kohta 3).
+
+Kuvien hienosäätöön myös `Adjustment Brush` (kohta 4) on hyödyllinen, sillä sen avulla voi maalata kuvan osia ja muokata vain niiden asetuksia.
+
+![Develop png](develop.png)
+
+Kun ensimmäinen kuva on saatu valmiiksi, siirrytään esim. nuolinäppäimillä seuraavaan kuvaan ja tuodaan edellisen kuvan asetukset painamalla `Previous` (kohta 5), joka tuo edellisen valitun kuvan asetukset nykyisen kuvan asetuksiksi.
+
+Käyttämällä edellisen kuvan asetuksia pohjana seuraavan kuvan muokkaaminen on yleensä helppoa, ja asetukset voi tuoda myös jostakin muusta kuvasta valitsemalla sen ensin ja sen jälkeen valitsemlla muokattavan kuvan ja painamalla `Previous`. Asetukset voi myös synkronoida suoraan useampaan kuvaan valitsemalla useita kuvia, jolloin `Previous` muuttuu `Sync`-nappulaksi, mutta yleensä `Previous`-nappia käyttämällä ja yksittäin kuvat läpi käymällä tulee parempaa jälkeä nopeammin.
 
 ## Kuvien exporttaus
 
