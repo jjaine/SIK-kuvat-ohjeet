@@ -84,4 +84,32 @@ Käyttämällä edellisen kuvan asetuksia pohjana seuraavan kuvan muokkaaminen o
 
 ## Kuvien exporttaus
 
-## Kuvien lisääminen
+Valitse kuvat ja valitse `File > Export`.
+
+`Export`-valikossa on seuraavat kohdat joihin kannattaa kiinnittää huomioita: `Export Location`, `File Naming`, `File Settings`, `Image Sizing`, `Output Sharpening` ja `Watermarking`.
+
+![Export png](export.png)
+
+`Export Location`-kohdassa valitaan, mihin valmiit kuvat tallennetaan. Yksi järkevä tapa arkistoida editoidut kuvat on esimerkiksi alikansioon importattujen kuvien kanssa. Tämä onnistuu `Put in subfolder`-valinnalla suoraan.
+
+`File Naming`-kohdassa voit nimetä kuvat helposti. Valitsemalla `Custom Name - Sequence` voit lisätä `Custom Text`-kenttään helposti kuvan nimen tyylillä tapahtumannimi-kuvaajannimi-numero, mikä on suositeltu formaatti killan galleriaan kuvia lisättäessä. 
+
+`File Settings`-kohdassa ainoa huomioitava asetus on `Quality`, joka on hyvä asettaa aina arvoon 100.
+
+`Image Sizing`-kohdassa `Resize to Fit` kannattaa valita `Long Edge` ja laittaa raksi ruutuun `Don't enlarge`. Tämän lisäksi asetetaan arvo, johon kuvat skaalataan, esim. 2500px. 
+
+`Output Sharpening`-kohdassa voi valita valinnan `Sharpen For: Screen`, sillä yleensä kuvat editoidaan killan galleriaa varten, jota katsellaan pääasiassa tietokoneen näytöltä.
+
+`Watermarking`-kohdassa voit asettaa oman copyright-merkkisi kuvaan, jos niin haluat.
+
+Tämän jälkeen paina Export ja kuvat exportataan alussa valitsemaasi kansioon.
+
+## Kuvien lisääminen killan galleriaan
+
+Pikaohjeet kuvien lisäämiseen killan galleriaan (sik.kuvat.fi):
+- Luo tunnus: www.kuvat.fi -> oikea yläkulma -> kirjaudu -> luo tunnus
+- Pyydä tunnuksesi lisäämistä esim. SIK valokuvaajat -TG-ryhmässä tai viestintämestarilta
+- Pyydä tunnuksen lisääjää lisäämään sinut etusivun kuvaajalistaan
+- Luo uusi alikansio galleriaan oikean vuoden kohdalle
+- Lisää kuvasi alikansioon
+- Halutessasi voit valita kansiolle mm. kansikuvan ja kirjoittaa kuvauksen kansion asetuksista
