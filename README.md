@@ -109,7 +109,7 @@ Tämän jälkeen paina Export ja kuvat exportataan alussa valitsemaasi kansioon.
 Pikaohjeet kuvien lisäämiseen killan galleriaan (sik.kuvat.fi):
 
 Jos sinulla ei vielä ole tunnuksia killan galleriaan:
-- Luo tunnus: www.kuvat.fi -> oikea yläkulma -> kirjaudu -> luo tunnus
+- Luo tunnus: www.kuvat.fi &rarr; oikea yläkulma &rarr; kirjaudu &rarr; luo tunnus
 - Pyydä tunnuksesi lisäämistä esim. SIK valokuvaajat -TG-ryhmässä tai viestintämestarilta
 - Pyydä tunnuksen lisääjää lisäämään sinut etusivun kuvaajalistaan
 
