@@ -17,6 +17,8 @@ Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin
     - [Ensimmäisen kerran asetukset](#ensimmäisen-kerran-asetukset)
 - [Kuvien valitseminen](#kuvien-valitseminen)
 - [Kuvien editointi](#kuvien-editointi)
+- [Kuvien exporttaus](#kuvien-exporttaus)
+- [Kuvien lisääminen killan galleriaan](#kuvien-lisääminen-killan-galleriaan)
 
 ## Lightroom
 
