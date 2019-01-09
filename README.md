@@ -1,4 +1,4 @@
-# Ohjeet SIKin valokuvaajille kuvien editointiin
+# Ohjeet SIKin valokuvaajille kuvien editointiin (+ galleristin ohjeet)
 
 Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin:
 
@@ -12,6 +12,7 @@ Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin
 
 # Sisältö
 
+- [Galleristin ohjeet](#galleristi)
 - [Lightroomista](#lightroom)
 - [Kuvien tuominen koneelle](#kuvien-tuominen-koneelle)
     - [Ensimmäisen kerran asetukset](#ensimmäisen-kerran-asetukset)
@@ -19,6 +20,19 @@ Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin
 - [Kuvien editointi](#kuvien-editointi)
 - [Kuvien exporttaus](#kuvien-exporttaus)
 - [Kuvien lisääminen killan galleriaan](#kuvien-lisääminen-killan-galleriaan)
+
+## Galleristi
+
+### Kuvien ottaminen
+- Otathan kuvat raakadatana (RAW)
+    - Tällöin valotusta voi säätää helposti jälkikäteen, joten ei haittaa, vaikka kuvat olisivat hieman yli- tai alivalottuneita
+- Ethän ota sataa kuvaa yhdestä tilanteesta, muutama kuva riittää
+
+### Kuvien toimittaminen galleristille
+- Laita kuvasi yhteen .zip-pakettiin, ja nimeä se tapahtuman mukaan, esim. “pikojoule2018.zip”
+- Lataa zip serverille `86.50.143.102` sftp-yhteyttä käyttäen, tunnukset ja ohjausta saat galleristilta
+- Jos sinulla ei vielä ole omaa kansiota uploads-kansion alla, luo sellainen
+- Kerro galleristille, että lisäsit kuvia serverille
 
 ## Lightroom
 
