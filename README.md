@@ -30,13 +30,13 @@ Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin
 
 ### Kuvien toimittaminen galleristille
 - Laita kuvasi yhteen .zip-pakettiin, ja nimeä se tapahtuman mukaan, esim. “pikojoule2018.zip”
-- Lataa zip serverille `86.50.143.102` sftp-yhteyttä käyttäen, tunnukset ja ohjausta saat galleristilta
+- Lataa zip serverille `bubble.dy.fi` sftp-yhteyttä käyttäen, tunnukset ja ohjausta saat galleristilta
 - Jos sinulla ei vielä ole omaa kansiota uploads-kansion alla, luo sellainen
 - Kerro galleristille, että lisäsit kuvia serverille
 
 ## Lightroom
 
-Itse käytän, ja suosittelen myös muille, Adoben Lightroom -sovellusta suurien kuvamäärien käsittelyyn. Sovelluksen saa itselleen opiskelijana Adobelta Photoshopin kanssa pakettina 12,39€/kk hintaan (tarkistettu 12.9.2018) ja Lightroom on myös asennettuna killan toimistolla, jos ei halua hankkia itselleen kyseistä ohjelmistoa.
+Itse käytän, ja suosittelen myös muille, Adoben Lightroom -sovellusta suurien kuvamäärien käsittelyyn. Sovelluksen saa itselleen opiskelijana Adobelta Photoshopin kanssa pakettina 12,39€/kk hintaan (tarkistettu 12.9.2018) ja Lightroom on myös asennettuna killan toimistolla, jos ei halua hankkia itselleen kyseistä ohjelmistoa. Oikea versio Lightroomista on nykyään nimeltään Lightroom Classic CC, ei pelkkä Lightroom CC.
 
 Seuraavat ohjeet on tehty Lightroomille.
 
