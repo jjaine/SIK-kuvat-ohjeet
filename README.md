@@ -12,7 +12,6 @@ Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin
 
 # Sisältö
 
-- [Galleristin ohjeet](#galleristi)
 - [Lightroomista](#lightroom)
 - [Kuvien tuominen koneelle](#kuvien-tuominen-koneelle)
     - [Ensimmäisen kerran asetukset](#ensimmäisen-kerran-asetukset)
@@ -21,24 +20,16 @@ Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin
 - [Kuvien exporttaus](#kuvien-exporttaus)
 - [Kuvien lisääminen killan galleriaan](#kuvien-lisääminen-killan-galleriaan)
 
-## Galleristi
-
-### Kuvien ottaminen
+## Kuvien ottaminen
 - Otathan kuvat raakadatana (RAW)
     - Tällöin valotusta voi säätää helposti jälkikäteen, joten ei haittaa, vaikka kuvat olisivat hieman yli- tai alivalottuneita
 - Ethän ota sataa kuvaa yhdestä tilanteesta, muutama kuva riittää
 
-### Kuvien toimittaminen galleristille
-- Laita kuvasi yhteen .zip-pakettiin, ja nimeä se tapahtuman mukaan, esim. “pikojoule2018.zip”
-- Lataa zip serverille `bubble.dy.fi` sftp-yhteyttä käyttäen, tunnukset ja ohjausta saat galleristilta
-- Jos sinulla ei vielä ole omaa kansiota uploads-kansion alla, luo sellainen
-- Kerro galleristille, että lisäsit kuvia serverille
-
 ## Lightroom
 
-Itse käytän, ja suosittelen myös muille, Adoben Lightroom -sovellusta suurien kuvamäärien käsittelyyn. Sovelluksen saa itselleen opiskelijana Adobelta Photoshopin kanssa pakettina 12,39€/kk hintaan (tarkistettu 12.9.2018) ja Lightroom on myös asennettuna killan toimistolla, jos ei halua hankkia itselleen kyseistä ohjelmistoa. Oikea versio Lightroomista on nykyään nimeltään Lightroom Classic CC, ei pelkkä Lightroom CC.
+Itse käytän, ja suosittelen myös muille, Adoben Lightroom Classic -sovellusta suurien kuvamäärien käsittelyyn. Sovelluksen saa itselleen opiskelijajäsenenä hintaan 20,15 €/kk ensimmäiseksi vuodeksi ja 30,99 €/kk sen jälkeen (tarkistettu 20.8.2023). Oikea versio Lightroomista on nykyään nimeltään Lightroom Classic, ei pelkkä Lightroom.
 
-Seuraavat ohjeet on tehty Lightroomille.
+Seuraavat ohjeet on tehty Lightroom Classicille. Sovelluksen ulkoasu voi vaihdella eri versioiden välillä, mutta toiminnot ovat samat.
 
 ## Kuvien tuominen koneelle
 
