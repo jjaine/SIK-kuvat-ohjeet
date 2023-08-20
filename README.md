@@ -1,4 +1,4 @@
-# Ohjeet SIKin valokuvaajille kuvien editointiin (+ galleristin ohjeet)
+# Ohjeet SIKin valokuvaajille kuvien editointiin
 
 Tämän dokumentin tarkoitus on yrittää vastata ainakin seuraaviin kysymyksiin:
 
